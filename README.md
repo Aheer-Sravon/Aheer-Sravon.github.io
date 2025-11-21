@@ -1,4 +1,4 @@
-# Joel Jang's Website (based on Junmo Kang's template)
+# Aheer Sravon's Website (based on Junmo Kang's template)
 
 ## Updates guide
 Change one of the files in `_data`, unless you are changing the look of the website.
@@ -16,8 +16,6 @@ mkdir public_html
 ```
 ./__deploy.sh
 ```
-
-More info on the [Media Lab wiki](http://wiki.media.mit.edu/view/Necsys/WebPagePersonal).
 
 
 ## External Libraries
