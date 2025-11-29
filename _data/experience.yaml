@@ -1,11 +1,29 @@
 experiences:
 - place: "Akij Textile Mills Ltd."
   time: "June. 2024 - July. 2024"
-  title: "Industrial Specialist"
-  subtitle: "EDA on Fabric Rejection Data and Power Plant Optimization"
+  title: "Industrial Attachee"
+  subtitle: ""
   category: "Industrial Attachment"
+
+- place: "American International University - Bangladesh"
+  time: "Dec. 21 2024"
+  title: "Industrial Vistee"
+  subtitle: "Fraud Detection: A GNN Approach - Conference"
+  category: "Conference"
+
+- place: "Bangladesh Industrial Technical Assitant Centre - BITAC"
+  time: "Nov. 2024"
+  title: "Industrial Vistee"
+  subtitle: ""
+  category: "Industrial Visit"
+
+- place: "British American Tobacco, Bangladesh"
+  time: "Jul. 2023"
+  title: "Industrial Vistee"
+  subtitle: ""
+  category: "Industrial Visit"
 
 - place: "Bangladesh University of Engineering and Technology"
   time: "Feb. 2020 - Mar. 2025"
   title: "B.S. in Industrial and Production Engineering"
-  category: "school"
+  category: "School"
