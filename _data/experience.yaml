@@ -1,9 +1,27 @@
 experiences:
+- place: "Bangladesh University of Engineering and Technology"
+  time: "Feb. 2020"
+  title: "B.S. in Industrial and Production Engineering"
+  subtitle: "Started Undergrad in the department of IPE"
+  category: "School"
+
+- place: "British American Tobacco, Bangladesh"
+  time: "Jul. 2023"
+  title: "Industrial Vistee"
+  subtitle: "Visited BATB"
+  category: "Industrial Visit"
+
 - place: "Akij Textile Mills Ltd."
   time: "June. 2024 - July. 2024"
   title: "Industrial Attachee"
-  subtitle: ""
+  subtitle: "Completed Industrial Attachment from ATML"
   category: "Industrial Attachment"
+
+- place: "Bangladesh Industrial Technical Assitant Centre - BITAC"
+  time: "Nov. 2024"
+  title: "Industrial Vistee"
+  subtitle: "Visited BITAC"
+  category: "Industrial Visit"
 
 - place: "American International University - Bangladesh"
   time: "Dec. 21 2024"
@@ -11,19 +29,8 @@ experiences:
   subtitle: "Fraud Detection: A GNN Approach - Conference"
   category: "Conference"
 
-- place: "Bangladesh Industrial Technical Assitant Centre - BITAC"
-  time: "Nov. 2024"
-  title: "Industrial Vistee"
-  subtitle: ""
-  category: "Industrial Visit"
-
-- place: "British American Tobacco, Bangladesh"
-  time: "Jul. 2023"
-  title: "Industrial Vistee"
-  subtitle: ""
-  category: "Industrial Visit"
-
 - place: "Bangladesh University of Engineering and Technology"
-  time: "Feb. 2020 - Mar. 2025"
+  time: "Mar. 2025"
   title: "B.S. in Industrial and Production Engineering"
+  subtitle: "Graduated!!"
   category: "School"
