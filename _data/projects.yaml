@@ -1,6 +1,12 @@
 projects:
-  - title: 
+  - title: Churn Analysis
+    subtitle: EDA on Churn Analysis Data
+    thumbnail: 
+    url: https://aheer-sravon.github.io/Churn-Analysis/churn_analysis.html
+    selected: y
+
+  - title: Implementation of Conway's Game of Life
     subtitle: 
     thumbnail: 
-    url: 
+    url: https://srabon-s-portfolio.vercel.app/portfolio/projects/game_of_life
     selected: y
