@@ -147,7 +147,7 @@ layout: default
 
   <ul class="tab-nav">
     <li><div class="button active" data-ref="#projects-selected">Selected</div></li>
-    <li><div class="button" data-ref="#projects-all">All</div></li>
+    <!-- <li><div class="button" data-ref="#projects-all">All</div></li> -->
   </ul>
 
   <div class="tab-content">
@@ -161,18 +161,10 @@ layout: default
 
           <div class="four columns">
             <div class="project-container">
-
-                <div class="project-image-container">
-                  <a href="{{ project.url }}">
-                    <img src="{{ project.thumbnail }}" class="u-max-full-width" />
-                  </a>
-                </div>
-
                 <div class="project-caption">
-                  <b>{{ project.title }}</b> <br/>
+                    <a href="{{ project.url }}" target="_blank"><b>{{ project.title }}</b></a> <br/>
                   {{ project.subtitle }}
                 </div>
-
             </div>
           </div>
 
