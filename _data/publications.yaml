@@ -1,4 +1,12 @@
 papers:
+  - title: "How Market Volatility Shapes Algorithmic Collusion: A Comparative Analysis of Learning-Based Pricing Algorithms"
+    year: "2025"
+    authors: "Aheer Sravon, Devdyuti Mazumder, MD. Ibrahim"
+    venue: "Under Review"
+    paper_pdf: "https://doi.org/10.48550/arXiv.2511.05568"
+    code: "https://www.github.com/Aheer-Sravon/Pricing-Competition"
+    selected: y
+
   - title: "Adaptive Sample-Level Framework Motivated by Distributionally Robust Optimization with Variance-Based Radius Assignment for Enhanced Neural Network Generalization Under Distribution Shift"
     year: "2025"
     authors: "Aheer Sravon, Devdyuti Mazumder, MD. Ibrahim"
