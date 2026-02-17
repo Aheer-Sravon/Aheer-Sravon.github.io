@@ -8,16 +8,6 @@ Test changes with:
 jekyll serve
 ```
 
-Push to the ML web directory:
-```
-rm -rf public_html
-mkdir public_html
-```
-```
-./__deploy.sh
-```
-
-
 ## External Libraries
 - Framework: [Jekyll](http://jekyllrb.com/)
 - CSS
